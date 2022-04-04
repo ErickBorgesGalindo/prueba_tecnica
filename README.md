@@ -7,7 +7,6 @@ Este proyecto ocupa informacion obtenida de la documentacion oficial de ChatKitt
 
 Este proyecto usa:
 
-- [Expo SDK 40](https://docs.expo.io/)
 - [ChatKitty](https://docs.chatkitty.com/javascript/#introduction)
 - [React Navigation v5](https://reactnavigation.org/docs/getting-started/)
 - [react-navigation-shared-element](https://github.com/IjzerenHein/react-navigation-shared-element)
